@@ -1,2 +1,0 @@
-# winscripts
-## Powershell関係
